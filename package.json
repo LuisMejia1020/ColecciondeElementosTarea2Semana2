@@ -1,0 +1,20 @@
+{
+  "name": "colecciondeelementostarea2semana2",
+  "version": "1.0.0",
+  "description": "Coleccion de elementos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMejia1020/ColecciondeElementosTarea2Semana2.git"
+  },
+  "author": "LuisMejia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisMejia1020/ColecciondeElementosTarea2Semana2/issues"
+  },
+  "homepage": "https://github.com/LuisMejia1020/ColecciondeElementosTarea2Semana2#readme"
+}
