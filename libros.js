@@ -1,3 +1,5 @@
+
+
 class Libro {
     nombre=''
     autor=''
@@ -23,3 +25,9 @@ class Libro {
 
 var libro1 = new Libro('jujutsu kaisen', 'gege akutami', 'shonen jump', 2018,'terror')
 var libro2 = new Libro('one piece','oda','shonen jump',2000,'aventura')
+console.log(libro1)
+console.log(libro2)
+libro1.leer()
+libro2.leer()
+
+module.exports = Libro
